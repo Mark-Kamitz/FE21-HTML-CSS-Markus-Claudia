@@ -1,0 +1,16 @@
+aside {
+
+    height:600px;
+    width:25%;
+
+    margin:0;
+    padding-top:10px;
+
+    font-size:1.5em;
+    font-weight: bold;
+
+    background-color: rgb(255, 223, 170);
+
+    float:left;
+
+}

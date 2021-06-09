@@ -1,6 +1,15 @@
 header{
-    display: block;
-    margin-left: auto;
+
+    margin-left:auto;
     margin-right: auto;
+
+    width:900px;
     
 }
+
+header img {
+
+    width:100%;
+
+}
+
