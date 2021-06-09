@@ -1,0 +1,26 @@
+div {
+    border:2px;
+    border-color:rgb(68, 255, 193);
+    margin:5px;
+}
+
+#third > p {
+
+    display:none;
+}
+
+h1 {
+    display:none;
+}
+
+#second div {
+
+    visibility:hidden; 
+
+}
+
+#sixth img {
+
+
+    visibility:visible; 
+}
